@@ -68,7 +68,7 @@ To contribute:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-- **Dataset**: [Dataset Link]
+- **Dataset**: [Available in datasets folder]
 - **Frameworks**: TensorFlow, PyTorch, Keras, Streamlit
 - **Visualization**: Matplotlib, Seaborn
 
