@@ -1,0 +1,4 @@
+tensorflow
+keras
+gdown
+opencv_python_headless
