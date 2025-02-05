@@ -34,5 +34,3 @@ if(st.button('Predict')):
     class_name= ['Potato___Early _blight','Potato___Late_blight','Potato___healthy']
     # st.success('Model is predicting its a {}'.formate(class_name[result_index]))
     st.success('Model is predicting it\'s a {}'.format(class_name[result_index]))
-
-    # python -m streamlit run web.py
